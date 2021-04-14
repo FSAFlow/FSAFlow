@@ -1,2 +1,2 @@
 # FSAFlow
-demonstration of FSAFlow
+demo video of FSAFlow
